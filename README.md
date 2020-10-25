@@ -1,5 +1,7 @@
 # ADM_homework1
 <b> The repository contains the homework1.
+  
+The pdf file stamps.pdf contains all the screenshots of the 97 challenges that assess the successful submissions.
 
 The script problem1.py contains the problem 1 with all the following HackerRank challenges: </b>
   
